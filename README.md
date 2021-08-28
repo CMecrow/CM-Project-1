@@ -7,22 +7,33 @@ Danebury Metal Detecting Club, abreviated to DMDC, have commisioned a website to
 
 ## Features
 ### - Navigation Bar
-    -Features on all x pages, the full responsive navigation bar includes links to the x, x, x and Sign Up page and is identical in each page to allow for easy navigation 
+    -Features on all 4 pages, the full responsive navigation bar includes links to the Home page (Index), Join Us page, Online Finds Table page and About Us page and is identical in each page to allow for easy navigation
+    -Navigation bar features a central DMDC logo, enhancing club identity and offering a recognisable symbol for the user
+    -Page links are positioned symetrically, 2 on each side of the logo
+    -Links are concise and one word for aethetics and ease of use
+    -Simple font and color choice for clarity and accessibility
     /* Screenshot of nav bar */
-### - Second feature
-    - Feature description
+### - Hero Image on each page
+    -Visual display to promote a positive emotional response from the user
+    -Helps identify the site's content and solidify the identity of the club itself
+    -Displays a visual of what the user can expect to come across while a member of the DMDC
+    -Hero image is accompanied by emotive Headline message on the main page, providing brief information about the club, embedding it in the local area
+    -Priority again sustained with a visible bright 'JOIN US TODAY' link to the Join page
     /* Screenshot */
-### - Third Feature
-    - Feature description
+### - Online Finds Table
+    -Layout is mirrored from the 'About Us' page across the top
+    -Title identifying the page 'Online Finds Table' under the hero image
+    -This is included as the page isn't an expected page on a website
+    -Includes three most recent finds of note from members of the club, along with acompanying information: Find title, Historical date, Item description, Finder's name and Find date
     /* Screenshot */
-### - Fourth Feature
-    - Feature description
-    /* Screenshot */
-### - Fifth Feature
-    - Feature description
+### - About Us Page
+    -Mirrors layout of the Online Finds Table across the top half of the page
+    -Includes meetings information, displayed through a split image 4x identical sizing
+    -Brief club information in the centre of the page as this is the main focus. Minimal text as with the rest of the site, also contains a contact email
+    -Google maps embedded at the bottom right to display the meetings location to prospective members
     /* Screenshot */
 ### - Sign Up Page
-    - This page will allow the user to sign up to the DMDC, declaring their interest and giving the club a point of contact to send over meeting information. The user will be required to submit their name, email address and experience.
+    - This page will allow the user to sign up to the DMDC, declaring their interest and giving the club a point of contact to send over meeting information. The user will be required to submit their name, email address and experience via text inputs and radio buttons
     /* Screenshot */
 ### - The Footer
     - The footer section includes links to the relevant social media pages for the DMDC, they will open in a new tab, contain an aria-label for accessibility, as well as rel="noopener" for added security. These links will work towards the original goals of conveying club information and offering potential members extra ways to connect with the club.
