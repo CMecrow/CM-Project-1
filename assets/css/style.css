@@ -8,6 +8,7 @@
 
 body {
     font-family: 'Roboto', Arial, sans-serif;
+    background-color:#FFF4EF;
 }
 
 /* Title and Nav bar */
@@ -19,8 +20,9 @@ body {
     letter-spacing: 2px;
     font-size: 320%;
     position:absolute;
-    margin-left: 30px;
+    margin-left: 10px;
     margin-top: 40px;
+    color: #574141;
     }
 
 nav {
@@ -33,10 +35,14 @@ nav {
   
 nav a {    
     text-decoration: none;
-    color: black;
+    color: #574141;
     margin: 20px;
     font-family: 'Roboto', Arial, sans-serif;
     font-size: 150%;
+}
+
+nav a:hover {
+    color:#9d0712;
 }
   
 #logo {
@@ -64,4 +70,39 @@ nav a {
     width: 100;
     height: 800px;
     background: url(/assets/images/hero-image3.jpg) no-repeat center center
+}
+
+.hero-text-box {
+    background-color: rgba(157, 7, 16, .8);
+    padding: 10px;
+    position:absolute; 
+    font-family: 'Roboto', Arial, sans-serif;
+    color:#FFFFFF;
+    letter-spacing: 1px;
+    text-align: left;
+    left: 15px;
+    text-shadow: 1px 1px 10px black;
+}
+
+#hero-text-box-one {
+    font-size: 130%;
+    width: 660px;
+    height: 55px;
+    top: 565px;
+}
+
+#hero-text-join {
+    letter-spacing: 2px;
+    font-family: 'Luto', Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 200%;
+    top: 650px;
+}
+
+#hero-text-box-two {    
+    font-size: 170%;
+    width: 590px;
+    height: 40px;
+    top: 720px;
 }
