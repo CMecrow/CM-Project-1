@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Roboto', Arial, sans-serif;
-    background-color:#FFF4EF;
+    background-color:#F6FBF0;
 }
 
 /* Title and Nav bar */
@@ -22,7 +22,7 @@ body {
     position:absolute;
     margin-left: 10px;
     margin-top: 40px;
-    color: #574141;
+    color: #42493a;
     }
 
 nav {
@@ -35,14 +35,14 @@ nav {
   
 nav a {    
     text-decoration: none;
-    color: #574141;
+    color: #42493a;
     margin: 20px;
     font-family: 'Roboto', Arial, sans-serif;
     font-size: 150%;
 }
 
 nav a:hover {
-    color:#9d0712;
+    color:#00C6FF;
 }
   
 #logo {
@@ -60,8 +60,8 @@ nav a:hover {
     width: 100;
     height: 800px;
     overflow: hidden;
-    border-top: 2px solid #9d0712;
-    border-bottom: 2px solid #9d0712;
+    border-top: 3px solid #668D3C;
+    border-bottom: 3px solid #668D3C;
     position: relative;
     bottom: 55px; 
 }
@@ -73,7 +73,7 @@ nav a:hover {
 }
 
 .hero-text-box {
-    background-color: rgba(157, 7, 16, .8);
+    background-color: rgba(66, 73, 58, .8);
     padding: 10px;
     position:absolute; 
     font-family: 'Roboto', Arial, sans-serif;
@@ -98,6 +98,11 @@ nav a:hover {
     font-weight: bold;
     font-size: 200%;
     top: 650px;
+    box-shadow: 4px 4px 10px black;
+}
+
+#hero-text-join:hover {
+    box-shadow: inset 0px 0px 10px black;
 }
 
 #hero-text-box-two {    
