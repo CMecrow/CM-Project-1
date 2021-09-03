@@ -100,7 +100,7 @@ nav a:hover {
 }
 
 #hero-text-join:hover {
-    box-shadow: inset 0px 0px 10px black;
+    box-shadow: inset -3px -3px 10px black;
 }
 
 #hero-text-box-two {    
@@ -108,4 +108,27 @@ nav a:hover {
     width: 590px;
     height: 40px;
     top: 720px;
+}
+
+/* Footer */
+
+footer {
+    position: relative;
+    height:20px;
+    bottom: 20px;
+}
+
+.socials {
+    text-align: center;
+}
+
+.socials > li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 200%;
+    color: #42493a;
+    padding-left: 5%;
+    padding-right: 5%;
 }
