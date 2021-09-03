@@ -168,3 +168,40 @@ footer {
     font-size: 200%;
     color: #42493a;
 }
+
+#meetings {
+    position: relative;
+    display: inline-block;
+    width: 650px;
+}
+
+.meeting-block {
+    position: relative;
+    display: inline-block;
+    width: 150px;
+    height: 400px;
+    background-color: #FFFFFF;
+    border: 3px solid #668D3C;
+    left: 15px;
+}
+
+#info-box {
+    position: relative;
+    display: inline-block;
+    width: 500px;
+    height: 400px;
+    left: 50px;
+    background-color: #FFFFFF;
+    border: 3px solid #668D3C;
+}
+
+#map {
+    position: relative;
+    display: inline-block;
+    float: right;
+    right: 15px;
+    width: 650px;
+    height: 400px;
+    background-color: #FFFFFF;
+    border: 3px solid #668D3C;
+}
