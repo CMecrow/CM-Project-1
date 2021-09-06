@@ -10,5 +10,5 @@
     - Couple of different techniques used to try and center the DMDC logo in the Nav. First attempt was to use an <ul> element inside the <nav> element with the <nav> element set at a smaller width to work as a boundary for the links. The Home and Join <li> elements would then be targetted and floated left with Finds and About floated right. This would then create a gap in the center for the logo. Though this may have worked fine for a desktop site, I was concerned that applying a strict pixel dimention to the <Nav> element would cause issues when trying to make the site responsive.
 [Tutorial followed](https://youtu.be/hp-LP8Nv18s) 
 
-    I instead centered the logo using percentages to help with responsiveness and match my mobile wireframes. I then positioned the <a> nav links via display: 'flex' with CSS3.
+    I instead centered the logo using percentages to help with responsiveness and match my mobile wireframes. I then positioned the <a> nav links via display: 'flex' with CSS3 to create the desired effect.
 
