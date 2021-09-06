@@ -205,7 +205,6 @@ footer {
 
 #map {
     position: relative;
-    display: inline-block;
     float: right;
     right: 15px;
     width: 600px;
