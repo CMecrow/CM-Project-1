@@ -112,10 +112,17 @@ nav a:hover {
 
 /* Footer */
 
-footer {
+.footer {
     position: relative;
     height: 20px;
+}
+
+#footer-home {
     bottom: 20px;
+}
+
+#footer-about {
+    top: 30px;
 }
 
 .socials {
@@ -185,7 +192,7 @@ footer {
     display: inline-block;
     width: 150px;
     height: 400px;
-    background-color: rgba(255, 255, 255, .7);
+    background-color: rgba(255, 255, 255, .4);
 }
 
 #meeting-one, #meeting-two, #meeting-three {
