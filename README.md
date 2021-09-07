@@ -97,4 +97,4 @@ You can break up the credits section into Content and Media, depending on what y
 Images used were not copyright free as they needed to pertain to the 'DMDC', a fictional metal detecting club created for the TV show 'The Detectorists'.
 
 Homepage: Hero image taken from [Amazon Prime](https://www.primevideo.com/detail/Detectorists-BBC-Series/0U8H58N2QNJJEJVNO91MDGUPVT)
-About: Image taken from [TheTVDB.com](https://thetvdb.com/series/detectorists)
+About: Image taken from [TheTVDB.com](https://thetvdb.com/series/detectorists), Meeting image taken from [pexels.com](https://www.pexels.com/photo/green-grass-field-1574547/)

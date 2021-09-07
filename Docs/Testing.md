@@ -12,3 +12,8 @@
 
     I instead centered the logo using percentages to help with responsiveness and match my mobile wireframes. I then positioned the <a> nav links via display: 'flex' with CSS3 to create the desired effect.
 
+#### Footer
+    - Difficulty producing a footer that stayed in the correct place on all pages without individual page by page adjustment
+
+### About Page
+    - Creating the meeting info divs, because they were positioned using inline block they contained a 4px gap between divs which was related to the font-size for the page. To remove the gaps I had to set font-size to 0 for the parent div.
