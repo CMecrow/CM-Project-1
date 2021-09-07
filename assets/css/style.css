@@ -230,7 +230,7 @@ nav a:hover {
     font-size: 16px;
     text-align: center;
     padding: 8px;
-    color: #42493a;
+    color: black;
 }
 
 #map {
@@ -277,14 +277,6 @@ nav a:hover {
     left: 30px;
 }
 
-#find-image-one {
-    background-image: url(../images/lance-gold2.jpg);
-}
-
-#find-image-two {
-    background-image: url(../images/edwardian-buttons.jpg);
-}
-
-#find-image-three {
-    background-image: url(../images/victorian-coins.jpg);
+.find-text p {
+    padding: 5px;
 }
