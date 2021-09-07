@@ -18,3 +18,4 @@
 ### About Page
     - Creating the meeting info divs, because they were positioned using inline block they contained a 4px gap between divs which was related to the font-size for the page. To remove the gaps I had to set font-size to 0 for the parent div.
     - Inserting text into the parent divs for meeting and info moved the overall div position. This was remedied by inserting overflow:hidden into the CSS3.
+    - Borders for div meeting blocks were not creating the desired effect as they'd double up between the divs (right 3px and left 3px creating a 6px border). Borders also didn't look as expected so internal borders were assigned the background colour with the parent meeting div being given a border instead to match other text elements on the page.
