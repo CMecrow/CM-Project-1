@@ -189,10 +189,13 @@ nav a:hover {
 }
 
 .meeting-block {
+    font-size: 16px;
+    color: #42493a;
     display: inline-block;
     width: 150px;
     height: 400px;
     background-color: rgba(255, 255, 255, .4);
+    text-align: center;   
 }
 
 #meeting-one, #meeting-two, #meeting-three {
@@ -205,9 +208,16 @@ nav a:hover {
     display: inline-block;
     width: 600px;
     height: 400px;
-    left: 50px;
+    left: 40px;
     background-color: #FFFFFF;
     border: 3px solid #668D3C;
+}
+
+#info-box p {
+    font-size: 16px;
+    text-align: center;
+    padding: 5px;
+    color: #42493a;
 }
 
 #map {
