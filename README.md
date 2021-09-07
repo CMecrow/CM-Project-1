@@ -88,9 +88,9 @@ In this section you need to reference where you got your content, media and extr
 You can break up the credits section into Content and Media, depending on what you have included.
 
 ### Content
-    - Example
-    - Instruciton on how to x were taken from x
-    - The icons in the footer were taken from Font Awesome (link not working?)
+
+Instruciton on how to embed a google map without using Javascript where possible was found [here](https://blog.duda.co/responsive-google-maps-for-your-website)
+The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 

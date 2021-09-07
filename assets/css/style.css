@@ -280,3 +280,19 @@ nav a:hover {
 .find-text p {
     padding: 5px;
 }
+
+/* Join Us Page */
+
+#join-text-box {
+    width: 700px;
+    height: 500px;
+    left: 50%;
+    top: 50%;
+    margin: -250px 0 0 -350px;    
+}
+
+#join-image {
+    width: 100;
+    height: 800px;
+    background: url(../images/join-image5.jpg) no-repeat center center;
+}
