@@ -123,6 +123,7 @@ nav a:hover {
 
 #footer-about-finds {
     top: 30px;
+    padding-bottom: 20px;
 }
 
 .socials {
@@ -376,8 +377,8 @@ nav a:hover {
         width: 100%;
         left: 0px;
         box-sizing: border-box;
-    }
-       
+    }   
+
     #info-box {
         float: none;
         width: 100%;

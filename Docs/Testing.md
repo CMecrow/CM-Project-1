@@ -31,3 +31,8 @@
     - I made the button much bigger as it was the main goal of the website, recruiting more members.
     - I also had the text box and form situated to the left of the page. However I was concerned that the image behind would then draw the eye and take presidence so I relocated the form to the center of the screen.
 [CSS Table Stackoverflow](https://stackoverflow.com/questions/4309950/how-to-align-input-forms-in-html)
+
+### Site Responsiveness
+
+    - Working on the about page was tricky as I'd had difficulty getting them centered and aligned already and had used pixel measurements for diameter rather than percentages. I could format the main 2 divs of Meetings and Info to fill the width at 100%, however the meeting information, situated inside the meeting div would not center with the display and position stlying I was applying. When looking for a fix I stumbled on the below Stackoverflow and used the align-items and justify-content to reach the goal.
+[Stackoverflow centering](https://stackoverflow.com/questions/4980525/css-center-display-inline-block)
