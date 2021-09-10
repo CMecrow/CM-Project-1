@@ -25,4 +25,9 @@
 
 ### Join Page
     - In original wireframes I had the radio button to the left of the label text, while I could find available solutions to this, they would not be fitting in level with the rest of my code so this was a change I stuck with.
+    - I was satisfied at first with the misalgigned input boxes and radio buttons but then decided to try to reformat them to get the labels aligned vertically, as well as the input boxes. The best solution I found for this is linked below. It involved formatting the form into a table through CSS. Although this achieved my goal to begin with, it meant the radio buttons were difficult to realign as they were now trying to fit into the table structure. Because of this, I reformatted them into another text input which won't affect functionality, and gives a wider scope for answers.
+    - The new table format did however give me an issue with the submit button. To get around this I enclosed the other aspects of the form in a div, then had the join button in a seperate div to help with positioning, and breaking it out of the table structure.
+    - There was another problem that assigning width in %s wasn't giving the desired effect relating to the labels and inputs. This may have been due to the new table formatting, though using pixels worked fine. It should not affect the responsiveness of the site as the text box will fit within the smallest view size.
+    - I made the button much bigger as it was the main goal of the website, recruiting more members.
     - I also had the text box and form situated to the left of the page. However I was concerned that the image behind would then draw the eye and take presidence so I relocated the form to the center of the screen.
+[CSS Table Stackoverflow](https://stackoverflow.com/questions/4309950/how-to-align-input-forms-in-html)
