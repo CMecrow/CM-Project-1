@@ -366,21 +366,18 @@ nav a:hover {
 
 /* Media Queries */
 
-@media screen and (max-width: 1920px) {
+@media screen and (max-width: 1900px) {
 
     #meetings {
+        display: flex;
+        justify-content: center;
+        align-items: center;
         float: none;
         width: 100%;
         left: 0px;
         box-sizing: border-box;
     }
-
-    .meeting-block {
-        position: relative;
-        left: 40%;
-        transform: translateX(-40%);          
-    }
-   
+       
     #info-box {
         float: none;
         width: 100%;
