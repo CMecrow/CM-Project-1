@@ -102,3 +102,4 @@ Finds: Image taken from [Thecustardtv.com](https://www.thecustardtv.com/2017/12/
 Find One image taken from [ashmolean.org](https://www.ashmolean.org/alfred-jewel#/) Text from same source.
 Find Two image taken from [etsy.com](https://www.etsy.com/listing/209330555/4-collectable-victorian-and-edwardian) Text taken from [compassrosedesign.com](https://www.compassrosedesign.com/pages/history-of-buttons)
 Find Three image taken from [vcoins.com](https://www.vcoins.com/en/stores/educational_coin_company/55/product/great_britain_medalets_victorian_and_edwardian_a_lot_of_7_items/1151252/Default.aspx) Text taken from [logicmgmt.com](https://logicmgmt.com/1876/living/money.htm)
+Join Us: Image taken from [mattiasnyberg.com](http://mattiasnyberg.com/portfolio/detectorists)

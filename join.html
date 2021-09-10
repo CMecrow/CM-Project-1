@@ -28,6 +28,25 @@
     </header>
  <section id="hero-shape">
         <div class="hero-text-box" id="join-text-box">
+            <form method="" action="">
+                <h2>Join the DMDC today</h2>
+                <label for="fname">First Name</label>
+                <input class="input-field" type="text" id="fname" name="first_name" required>
+                <label for="lname">Last Name</label>
+                <input class="input-field" type="text" id="lname" name="last_name" required>
+                <label for="email">Email Address</label>
+                <input class="input-field" type="email" id="email" name="email_address" required>
+                <p>Experience</p>
+                <div id="radio-buttons">
+                    <label for="none" id="none">None</label>
+                    <input type="radio" id="none" name="experience" value="none" required>
+                    <label for="one_year_plus" id="one_year_plus">1+ Year</label>
+                    <input type="radio" id="one_year_plus" name="experience" value="one_year_plus">
+                    <label for="five_year_plus" id="five_year_plus">5+ Years</label>
+                    <input type="radio" id="five_year_plus" name="experience" value="five_year_plus">
+                </div>
+                <input id="join-button" type="submit" value="Join">
+            </form>
         </div>
         <div id="join-image"></div>
  </section>
