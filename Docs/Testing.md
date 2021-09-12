@@ -34,7 +34,14 @@
 
 ### Site Responsiveness
 
+    #### Media Queries selection
+    - < 1900px, chosen because of the about and finds page. Not enough space across for 3x horizontal divs. 
+    - < 900px, chosen because nav begins to clash with title text. Finds page also altered to provide more spacing around images and text.
+    - < 710 px, chosen because of 'join us' text box, begins to get cramped.
+
     - Working on the about page was tricky as I'd had difficulty getting them centered and aligned already and had used pixel measurements for diameter rather than percentages. I could format the main 2 divs of Meetings and Info to fill the width at 100%, however the meeting information, situated inside the meeting div would not center with the display and position stlying I was applying. When looking for a fix I stumbled on the below Stackoverflow and used the align-items and justify-content to reach the goal.
 [Stackoverflow centering](https://stackoverflow.com/questions/4980525/css-center-display-inline-block)
 
     - The finds page follows a similar structural change, instead of displaying all three top finds horizontally, they are now displayed vertically and centerally aligned. There was scope for 2 to be displayed side by side on a tablet but as there was only three in total, this would have looked strange structurally. This is a feature that coule be added when more finds are implimented onto the website.
+
+    - Title was chosen to be hidden when below 900 pixels as the club name 'DMDC' is still visible on central logo, and stacking elements in the header would have looked worse than omitting the title.

@@ -289,7 +289,7 @@ nav a:hover {
     height: 500px;
     left: 50%;
     top: 45%;
-    margin: -250px 0 0 -350px;    
+    margin: -250px 0 0 -360px;    
 }
 
 .input-field:hover {
@@ -403,6 +403,11 @@ nav a:hover {
         justify-content: center;
         align-items: center;
         padding-bottom: 20px;
+        margin-left: -15px;
+    }
+
+    .find-image {
+        left: 0px;
     }
 
     .find-text {
@@ -419,4 +424,69 @@ nav a:hover {
     #title {
         display: none;
     }
+
+    .find-image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .find-text {
+        width: 35%;
+    }
+}
+
+@media screen and (max-width: 710px) {
+
+    #join-text-box {
+        width: 100;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #text-inputs {
+        width: 100;
+    }
+
+    .text-label {
+        width: 100px;
+    }
+    
+    .input-field {
+        width: 400px;
+    }
+
+    #join {
+        display: inline-block;
+        top: 385px;
+    }
+
+    .hero-text-box {
+        left: 0;
+    }
+
+    #hero-text-box-one { 
+        width: 100%;
+        height: auto;
+        top: 450px;
+        text-align: center;
+    }
+
+    #hero-text-join {
+        width: 100%;
+        text-align: center;
+        top: 570px;
+    }
+
+    #hero-text-box-two {
+        width: 100%;
+        text-align: center;
+        height: auto;
+        top: 650px;
+    }
+
 }
