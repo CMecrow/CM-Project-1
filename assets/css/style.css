@@ -467,6 +467,7 @@ nav a:hover {
 
     .hero-text-box {
         left: 0;
+        padding: 0;
     }
 
     #hero-text-box-one { 
@@ -488,5 +489,57 @@ nav a:hover {
         height: auto;
         top: 650px;
     }
+}
 
+@media screen and (max-width: 650px) {
+
+    .find-box {
+        display: block;
+        left: 50%;
+        margin-left: -153px;
+    }
+
+    #find-two, #find-three {
+        margin: 0;
+        padding: 0;
+        display: block;
+        left: 50%;
+        margin-left: -153px;
+    }
+
+    #find-two {
+        margin-bottom: 15px;
+    }
+
+    .find-image {
+        display: block;
+        position: relative;
+        margin-bottom: 5px;
+    }
+
+    .find-text {
+        display: block;
+        width: 300px;
+        left: 0;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    
+    nav {
+        width: 100%;
+    }
+
+    nav a {
+        font-size: 140%;
+        margin: 5px;
+    }
+
+    .text-label {
+        width: 100px;
+    }
+    
+    .input-field {
+        width: 200px;
+    }
 }

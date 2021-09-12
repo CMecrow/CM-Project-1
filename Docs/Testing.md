@@ -38,6 +38,8 @@
     - < 1900px, chosen because of the about and finds page. Not enough space across for 3x horizontal divs. 
     - < 900px, chosen because nav begins to clash with title text. Finds page also altered to provide more spacing around images and text.
     - < 710 px, chosen because of 'join us' text box, begins to get cramped.
+    - < 650px, chosen because find page needs condensing to stack images and text on top of each other.
+    - < 540px, chosen to condense nav menu and Join us form.
 
     - Working on the about page was tricky as I'd had difficulty getting them centered and aligned already and had used pixel measurements for diameter rather than percentages. I could format the main 2 divs of Meetings and Info to fill the width at 100%, however the meeting information, situated inside the meeting div would not center with the display and position stlying I was applying. When looking for a fix I stumbled on the below Stackoverflow and used the align-items and justify-content to reach the goal.
 [Stackoverflow centering](https://stackoverflow.com/questions/4980525/css-center-display-inline-block)
