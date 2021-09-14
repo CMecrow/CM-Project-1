@@ -542,4 +542,32 @@ nav a:hover {
     .input-field {
         width: 200px;
     }
+
+    .meeting-block h2, h3, h4 {
+        font-size: 90%;
+    }
+}
+
+@media screen and (max-width: 420px) {
+
+    #logo {
+        width: auto;
+        height: 50px;
+    }
+
+    nav {
+        padding-bottom: 40px;
+    }
+
+    #hero-text-box-one { 
+        top: 390px;
+    }
+
+    #join-text-box h2 {
+        font-size: 120%;
+    }
+
+    .input-field {
+        width: 150px;
+    }
 }
