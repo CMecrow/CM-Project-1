@@ -438,18 +438,19 @@ nav a:hover {
 
 @media screen and (max-width: 710px) {
 
-    #join-text-box {
+    .hero-text-box {
         width: 100%;
     }
 
-    form {
+    #sign-up {
         display: flex;
         justify-content: center;
         align-items: center;
     }
+    
 
     #text-inputs {
-        width: 100%;
+        width: auto;
     }
 
     .text-label {
@@ -457,7 +458,7 @@ nav a:hover {
     }
     
     .input-field {
-        width: 400px;
+        width: 400px;        
     }
 
     #join {
