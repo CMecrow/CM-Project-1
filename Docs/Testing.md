@@ -30,6 +30,7 @@
     - There was another problem that assigning width in %s wasn't giving the desired effect relating to the labels and inputs. This may have been due to the new table formatting, though using pixels worked fine. It should not affect the responsiveness of the site as the text box will fit within the smallest view size.
     - I made the button much bigger as it was the main goal of the website, recruiting more members.
     - I also had the text box and form situated to the left of the page. However I was concerned that the image behind would then draw the eye and take presidence so I relocated the form to the center of the screen.
+    - I avoided including a method or action attribute in the form element to avoid any errors when running the site. Because of this the form is not functual in this state. Were it to be deploted as a form with a method and action attribute, something would need to be added to display that details had been submitted successfuly to the user.
 [CSS Table Stackoverflow](https://stackoverflow.com/questions/4309950/how-to-align-input-forms-in-html)
 
 ### Site Responsiveness

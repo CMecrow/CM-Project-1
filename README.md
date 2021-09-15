@@ -89,12 +89,12 @@ You can break up the credits section into Content and Media, depending on what y
 
 ### Content
 
-Instruciton on how to embed a google map without using Javascript where possible was found [here](https://blog.duda.co/responsive-google-maps-for-your-website)
+Instruction on how to embed a google map without using Javascript where possible was found [here](https://blog.duda.co/responsive-google-maps-for-your-website)
 The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-Images used were not copyright free as they needed to pertain to the 'DMDC', a fictional metal detecting club created for the TV show 'The Detectorists'. I also had great difficulty locating appropriate images via copyright free sites, so had to look elsewhere.
+Images used are not copyright free as they need to pertain to the 'DMDC', a fictional metal detecting club created for the TV show 'The Detectorists'. I also had great difficulty locating appropriate images via copyright free sites, so had to look elsewhere.
 
 Homepage: Hero image taken from [Amazon Prime](https://www.primevideo.com/detail/Detectorists-BBC-Series/0U8H58N2QNJJEJVNO91MDGUPVT)
 About: Image taken from [TheTVDB.com](https://thetvdb.com/series/detectorists), Meeting image taken from [pexels.com](https://www.pexels.com/photo/green-grass-field-1574547/)
