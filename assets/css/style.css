@@ -44,7 +44,7 @@ nav a:hover {
     color:#00C6FF;
 }
   
-#logo {
+.logo {
     padding-top: 5px;
     height: 150px;  
     left: 50%;
@@ -56,7 +56,7 @@ nav a:hover {
 /* Hero image */
 
 #hero-shape {
-    width: 100;
+    width: 100%;
     height: 800px;
     overflow: hidden;
     border-top: 3px solid #668D3C;
@@ -66,7 +66,7 @@ nav a:hover {
 }
 
 #hero-image {
-    width: 100;
+    width: 100%;
     height: 800px;
     background: url(../images/hero-image3.jpg) no-repeat center center;
 }
@@ -148,7 +148,7 @@ nav a:hover {
 /* About Page + Finds Page image and title */
 
 #about-finds-image-shape {
-    width: 100;
+    width: 100%;
     height: 300px;
     overflow: hidden;
     border-top: 3px solid #668D3C;
@@ -158,20 +158,20 @@ nav a:hover {
 }
 
 #about-image {
-    width: 100;
+    width: 100%;
     height: 300px;
     background: url(../images/about-image.jpg) no-repeat center center;
 }
 
 #finds-image {
-    width: 100;
+    width: 100%;
     height: 300px;
     background: url(../images/findsimage.jpg) no-repeat center center;
 }
 
 #about-finds-title {
     position: relative;
-    width: 100;
+    width: 100%;
     text-align: center;
     bottom: 30px;
 }
@@ -360,7 +360,7 @@ nav a:hover {
 }
 
 #join-image {
-    width: 100;
+    width: 100%;
     height: 800px;
     background: url(../images/join-image3.jpg) no-repeat center center;
 }
@@ -439,7 +439,7 @@ nav a:hover {
 @media screen and (max-width: 710px) {
 
     #join-text-box {
-        width: 100;
+        width: 100%;
     }
 
     form {
@@ -449,7 +449,7 @@ nav a:hover {
     }
 
     #text-inputs {
-        width: 100;
+        width: 100%;
     }
 
     .text-label {
@@ -550,7 +550,7 @@ nav a:hover {
 
 @media screen and (max-width: 420px) {
 
-    #logo {
+    .logo {
         width: auto;
         height: 50px;
     }
