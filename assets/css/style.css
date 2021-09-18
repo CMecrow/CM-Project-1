@@ -11,18 +11,55 @@ body {
     background-color:#F6FBF0;
 }
 
+.lato {
+    letter-spacing: 2px;
+    font-family: 'Lato', Arial, sans-serif;
+}
+
+.large-image {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    bottom: 55px; 
+    border-top: 3px solid #668D3C;
+    border-bottom: 3px solid #668D3C;
+}
+
+.med-image-sizing {
+    width: 100%;
+    height: 300px;
+}
+
+.text-shadow {
+    text-shadow: 1px 1px 10px black;
+}
+
+.white-background {
+    background-color: #FFFFFF;
+}
+
+.white-text {
+    color:#FFFFFF;
+}
+
+.green-two {
+    color: #42493a;
+}
+
+.border-green-one {
+    border: 3px solid #668D3C;
+}
+
+
 /* Title and Nav bar */
 
 #title {
     float: left;
-    font-family: 'Lato', Arial, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
     font-size: 320%;
     position:absolute;
     margin-left: 10px;
     margin-top: 40px;
-    color: #42493a;
 }
 
 nav {
@@ -35,7 +72,6 @@ nav {
   
 nav a {    
     text-decoration: none;
-    color: #42493a;
     margin: 20px;
     font-size: 150%;
 }
@@ -56,13 +92,7 @@ nav a:hover {
 /* Hero image */
 
 #hero-shape {
-    width: 100%;
     height: 800px;
-    overflow: hidden;
-    border-top: 3px solid #668D3C;
-    border-bottom: 3px solid #668D3C;
-    position: relative;
-    bottom: 55px; 
 }
 
 #hero-image {
@@ -75,11 +105,9 @@ nav a:hover {
     background-color: rgba(66, 73, 58, .8);
     padding: 10px;
     position:absolute; 
-    color:#FFFFFF;
     letter-spacing: 1px;
     text-align: left;
     left: 15px;
-    text-shadow: 1px 1px 10px black;
 }
 
 #hero-text-box-one {
@@ -90,8 +118,6 @@ nav a:hover {
 }
 
 #hero-text-join {
-    letter-spacing: 2px;
-    font-family: 'Lato', Arial, sans-serif;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 200%;
@@ -136,7 +162,6 @@ nav a:hover {
 
 .socials i {
     font-size: 200%;
-    color: #42493a;
     padding-left: 2%;
     padding-right: 2%;
 }
@@ -148,24 +173,14 @@ nav a:hover {
 /* About Page + Finds Page image and title */
 
 #about-finds-image-shape {
-    width: 100%;
     height: 300px;
-    overflow: hidden;
-    border-top: 3px solid #668D3C;
-    border-bottom: 3px solid #668D3C;
-    position: relative;
-    bottom: 55px;
 }
 
 #about-image {
-    width: 100%;
-    height: 300px;
     background: url(../images/about-image1.webp) no-repeat center center;
 }
 
 #finds-image {
-    width: 100%;
-    height: 300px;
     background: url(../images/findsimage1.webp) no-repeat center center;
 }
 
@@ -177,10 +192,7 @@ nav a:hover {
 }
 
 #about-finds-title h2 {
-    font-family: 'Lato', Arial, sans-serif;
-    letter-spacing: 2px;
     font-size: 200%;
-    color: #42493a;
 }
 
 #meetings {
@@ -192,12 +204,10 @@ nav a:hover {
     background-image: url(../images/meeting-image.jpg);
     background-size: cover;
     overflow: hidden;
-    border: 3px solid #668D3C;
 }
 
 .meeting-block {
     font-size: 16px;
-    color: #42493a;
     display: inline-block;
     width: 150px;
     height: 400px;
@@ -223,8 +233,6 @@ nav a:hover {
     left: 14px;
     width: 600px;
     height: 400px;
-    background-color: #FFFFFF;
-    border: 3px solid #668D3C;
     overflow: hidden;
 }
 
@@ -241,8 +249,6 @@ nav a:hover {
     right: 15px;
     width: 600px;
     height: 400px;
-    background-color: #FFFFFF;
-    border: 3px solid #668D3C;
 }
 
 /* Finds Page */
@@ -259,8 +265,6 @@ nav a:hover {
     width: 300px;
     height: 400px;
     left: 15px;
-    background-color: #FFFFFF;
-    border: 3px solid #668D3C;
     overflow: hidden;
 }
 
@@ -270,8 +274,6 @@ nav a:hover {
     width: 250px;
     height: 400px;
     left: 30px;
-    background-color: #FFFFFF;
-    border: 3px solid #668D3C;
     overflow: hidden;
 }
 
@@ -307,9 +309,7 @@ nav a:hover {
 
 #join-text-box h2 {
     text-align: center;
-    font-family: 'Lato', Arial, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
     font-size: 160%;
     margin: 20px 0 40px;
 }
@@ -330,7 +330,6 @@ nav a:hover {
 .input-field {
     display: table-cell;
     background: transparent;
-    color: #FFFFFF;
     width: 560px;
     height: 25px;
     margin: 5px 0px 40px 0px;
@@ -345,20 +344,18 @@ nav a:hover {
 
 #join-button {
     padding: 10px 20px 10px 20px;
-    font-family: 'Lato', Arial, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
     font-size: 160%;
-    text-shadow: 1px 1px 10px black;
     text-align: center;
     background-color: #668D3C;
-    color: #FFFFFF;
     width: 700px;
 }
+
 
 #join-button:hover {
     background-color: #00C6FF;
 }
+
 
 #join-image {
     width: 100%;
