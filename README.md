@@ -8,7 +8,7 @@ Danebury Metal Detecting Club, abreviated to DMDC, have commisioned a website to
 ## Features
 ### - Navigation Bar
     -Features on all 4 pages, the full responsive navigation bar includes links to the Home page (Index), Join Us page, Online Finds Table page and About Us page and is identical in each page to allow for easy navigation
-    -Navigation bar features a central DMDC logo, enhancing club identity and offering a recognisable symbol for the user
+    -Navigation bar features a central DMDC logo, enhancing club identity and offering a recognisable symbol for the user. This also functions as another link back to the home page.
     -Page links are positioned symetrically, 2 on each side of the logo
     -Links are concise and one word for aethetics and ease of use
     -Simple font and color choice for clarity and accessibility
