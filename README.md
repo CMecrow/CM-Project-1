@@ -49,13 +49,8 @@ Danebury Metal Detecting Club, abreviated to DMDC, have commisioned a website to
 ---
 
 ## Testing
-Detail testing to show that the site works well fundamentally. List features tested, and how they provide the user with an easy and straightforward way to achieve their goals.
 
-Also mention how the project looks on different browsers and screen sizes.
-
-Mention any interesting bugs or problems, whether they are addressed or not
-
-Potentially split off into a seperate file and link **here**
+Seperate testing file linked [Here.](https://github.com/CMecrow/CM-Project-1/blob/main/docs/Testing.md)
 
 ### Validator Testing
 #### HTML - 
@@ -67,7 +62,8 @@ I confirmed the colors and fonts chosen are easy to read and accessible by runni
 /* Screenshot of lighthouse */
 
 ### Unfixed Bugs
-Mention any unfixed bufs and why they were not fixed. Include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, time and difficulty understanding implementation is not a valid reason.
+
+Discussed on [Testing page.](https://github.com/CMecrow/CM-Project-1/blob/main/docs/Testing.md)
 
 ---
 
@@ -91,15 +87,22 @@ You can break up the credits section into Content and Media, depending on what y
 
 Instruction on how to embed a google map without using Javascript where possible was found [here](https://blog.duda.co/responsive-google-maps-for-your-website)
 The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+Further tutorials used are detailed in the [Testing page.](https://github.com/CMecrow/CM-Project-1/blob/main/docs/Testing.md)
 
 ### Media
 
 Images used are not copyright free as they need to pertain to the 'DMDC', a fictional metal detecting club created for the TV show 'The Detectorists'. I also had great difficulty locating appropriate images via copyright free sites, so had to look elsewhere.
 
 Homepage: Hero image taken from [Amazon Prime](https://www.primevideo.com/detail/Detectorists-BBC-Series/0U8H58N2QNJJEJVNO91MDGUPVT)
+---
 About: Image taken from [TheTVDB.com](https://thetvdb.com/series/detectorists), Meeting image taken from [pexels.com](https://www.pexels.com/photo/green-grass-field-1574547/)
+---
 Finds: Image taken from [Thecustardtv.com](https://www.thecustardtv.com/2017/12/detectorists-well-miss-this-gentle.html)
+---
 Find One image taken from [ashmolean.org](https://www.ashmolean.org/alfred-jewel#/) Text from same source.
+---
 Find Two image taken from [etsy.com](https://www.etsy.com/listing/209330555/4-collectable-victorian-and-edwardian) Text taken from [compassrosedesign.com](https://www.compassrosedesign.com/pages/history-of-buttons)
+---
 Find Three image taken from [vcoins.com](https://www.vcoins.com/en/stores/educational_coin_company/55/product/great_britain_medalets_victorian_and_edwardian_a_lot_of_7_items/1151252/Default.aspx) Text taken from [logicmgmt.com](https://logicmgmt.com/1876/living/money.htm)
+---
 Join Us: Image taken from [mattiasnyberg.com](http://mattiasnyberg.com/portfolio/detectorists)
