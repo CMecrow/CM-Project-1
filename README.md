@@ -59,7 +59,7 @@ Potentially split off into a seperate file and link **here**
 
 ### Validator Testing
 #### HTML - 
-No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/)
+When passing through HTML validator - [W3C validator](https://validator.w3.org/nu/) there are 2 areas related to the 'join' page, namely the lack of a 'method' or 'action' value in the sign up form. This was a concious decision to avoid any site errors or crashes when a submition was attempted. Were the site to go live, this would need amending as a first priority.
 #### CSS -
 No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 ### Accessibility
