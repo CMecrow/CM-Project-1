@@ -1,7 +1,7 @@
 # DMDC - Danebury Metal Detecting Club
 Danebury Metal Detecting Club, abreviated to DMDC, have commisioned a website to be made to help them recruit more members and provide information about the club. The site is targetted towards individuals who may be interested in joining the club for recruitment purposes and also toward existing members, providing information about their weekly meet ups.
 
-## /* Screenshots across devices */
+![alt text](https://i.imgur.com/cAij1Cz.jpg "Site responsiveness")
 
 ---
 
