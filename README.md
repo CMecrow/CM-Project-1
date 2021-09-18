@@ -58,7 +58,7 @@ When passing through HTML validator - [W3C validator](https://validator.w3.org/n
 #### CSS -
 No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 ### Accessibility
-I confirmed the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
+I confirmed the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
 /* Screenshot of lighthouse */
 
 ### Unfixed Bugs
@@ -68,20 +68,16 @@ Discussed on [Testing page.](https://github.com/CMecrow/CM-Project-1/blob/main/d
 ---
 
 ## Deployment
-Describe the process you went through to deploy the project to GitHub.
-    
+  
     - The site was deployed to GitHub pages. The steps to deploy are as follows:
         - In the GitHub repository, navigate to the Settings tab
         - From the source section drop-down menu, select the Master / Main Branch
         - Once the master or main branch has been selected, the page will automatically be refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found [here.](https://github.com/CMecrow/CM-Project-1)
+The live link can be found [here.](https://cmecrow.github.io/CM-Project-1/index.html)
 
 ---
 
 ## Credits
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other places however, it is important to be very specific about these sources to avoid plagiarism.
-
-You can break up the credits section into Content and Media, depending on what you have included.
 
 ### Content
 
@@ -94,15 +90,15 @@ Further tutorials used are detailed in the [Testing page.](https://github.com/CM
 Images used are not copyright free as they need to pertain to the 'DMDC', a fictional metal detecting club created for the TV show 'The Detectorists'. I also had great difficulty locating appropriate images via copyright free sites, so had to look elsewhere.
 
 Homepage: Hero image taken from [Amazon Prime](https://www.primevideo.com/detail/Detectorists-BBC-Series/0U8H58N2QNJJEJVNO91MDGUPVT)
----
+
 About: Image taken from [TheTVDB.com](https://thetvdb.com/series/detectorists), Meeting image taken from [pexels.com](https://www.pexels.com/photo/green-grass-field-1574547/)
----
+
 Finds: Image taken from [Thecustardtv.com](https://www.thecustardtv.com/2017/12/detectorists-well-miss-this-gentle.html)
----
+
 Find One image taken from [ashmolean.org](https://www.ashmolean.org/alfred-jewel#/) Text from same source.
----
+
 Find Two image taken from [etsy.com](https://www.etsy.com/listing/209330555/4-collectable-victorian-and-edwardian) Text taken from [compassrosedesign.com](https://www.compassrosedesign.com/pages/history-of-buttons)
----
+
 Find Three image taken from [vcoins.com](https://www.vcoins.com/en/stores/educational_coin_company/55/product/great_britain_medalets_victorian_and_edwardian_a_lot_of_7_items/1151252/Default.aspx) Text taken from [logicmgmt.com](https://logicmgmt.com/1876/living/money.htm)
----
+
 Join Us: Image taken from [mattiasnyberg.com](http://mattiasnyberg.com/portfolio/detectorists)
