@@ -34,6 +34,7 @@ Danebury Metal Detecting Club, abreviated to DMDC, have commisioned a website to
 ![https://i.imgur.com/rbaeJvq](https://i.imgur.com/rbaeJvq.jpg "About page")
 ### - Sign Up Page
     - This page will allow the user to sign up to the DMDC, declaring their interest and giving the club a point of contact to send over meeting information. The user will be required to submit their name, email address and experience via text inputs and radio buttons
+    - This page was the main project goal of the website, to provide an area for new members to sign up to the DMDC. I chose the below image specifically as it was high definition, like all other large images across the site, and also fitted the theme nicely. The image was not too busy in terms of colour or content and because the main focus was actually blurred, the metal detectorist in the grass, I felt that it would not detract from the sign up form.
 ![https://imgur.com/nQCY0NQ](https://i.imgur.com/5Mcy1rK.jpg "Join page")
 ### - The Footer
     - The footer section includes links to the relevant social media pages for the DMDC, they will open in a new tab, contain an aria-label for accessibility, as well as rel="noopener" for added security. These links will work towards the original goals of conveying club information and offering potential members extra ways to connect with the club.
@@ -44,7 +45,7 @@ Danebury Metal Detecting Club, abreviated to DMDC, have commisioned a website to
 ## Future Features
 
 ### - Future Feature Idea
-    - Description (why it isn't in first run?)
+    - 
 
 ---
 

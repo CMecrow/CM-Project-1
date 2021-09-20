@@ -40,6 +40,13 @@
     - I avoided including a method or action attribute in the form element to avoid any errors when running the site. Because of this the form is not functual in this state. Were it to be deploted as a form with a method and action attribute, something would need to be added to display that details had been submitted successfuly to the user.
 [CSS Table Stackoverflow](https://stackoverflow.com/questions/4309950/how-to-align-input-forms-in-html)
 
+### Image Choice
+    - All large images across the site were chosen for their size and HD quality. They matched the individual themes of the pages:
+        - The home page image is impactful and immediatley displays to the user the content of the website, and offers an image of two of the club members, personalising the   club with a picturesque and emotive background.
+        - The join page carries on the color and content theme of wide open spaces and fields, without distracting from the overlaying content.
+        - The finds page displays another two club members, out on a dig, displaying one of their finds.
+        - The about page shows a picture of all club members, again offering the personal side of the club.
+
 ### Site Responsiveness
 
     #### Media Queries selection
