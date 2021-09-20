@@ -205,6 +205,10 @@ nav a:hover {
     font-size: 200%;
 }
 
+#about-container {
+    text-align: center;
+}
+
 #meetings {
     font-size: 0;
     position: relative;
@@ -237,10 +241,8 @@ nav a:hover {
 }
 
 #info-box {    
-    position: relative;
     display: inline-block;
-    margin: 0 36px 0 36px;
-    left: 14px;
+    margin: 0 auto;
     width: 600px;
     height: 400px;
     overflow: hidden;

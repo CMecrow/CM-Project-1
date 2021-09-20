@@ -26,6 +26,7 @@
     - Inserting text into the parent divs for meeting and info moved the overall div position. This was remedied by inserting overflow:hidden into the CSS3.
     - Borders for div meeting blocks were not creating the desired effect as they'd double up between the divs (right 3px and left 3px creating a 6px border). Borders also didn't look as expected so internal borders were assigned the background colour with the parent meeting div being given a border instead to match other text elements on the page.
     - I'd previously placed the font-awesome logos in the meeting info in h2 and h3 tags for some simple easy styling. However they've now been changed to divs as the heading tags didn't make sense semantically.
+    - I had real issue centering the 'info' box and had tried to do so via pixels and padding, however I then realised it could be simply done by placing all three divs (meetings, info and map) into a parent div with text-align: center, then applying margin: 0 auto to the info div.
 
 ### Finds Page
     - I originally inserted the images through CSS3 as background images to the selected divs, however I changed the images to be in the HTML code to be able to apply an alt atribute.
