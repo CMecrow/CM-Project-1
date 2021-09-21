@@ -265,6 +265,10 @@ nav a:hover {
 
 /* Finds Page */
 
+#finds-container {
+    text-align: center;
+}
+
 .find-box {
     width: 33%;
     position: relative;
@@ -281,6 +285,7 @@ nav a:hover {
 }
 
 .find-text {
+    text-align: left;
     position: relative;
     display: inline-block;
     width: 250px;
@@ -289,12 +294,12 @@ nav a:hover {
     overflow: hidden;
 }
 
-#find-two, #find-three {
-    left: 30px;
-}
-
 .find-text p {
     padding: 5px;
+}
+
+#find-one {
+    margin: 0 auto;
 }
 
 /* Join Us Page */

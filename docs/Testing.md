@@ -30,6 +30,7 @@
 
 ### Finds Page
     - I originally inserted the images through CSS3 as background images to the selected divs, however I changed the images to be in the HTML code to be able to apply an alt atribute.
+    - I changed the alignment of find2 and find3 divs using the same technique as the about page, placing all three divs into a parent div with text-align: center.
 
 ### Join Page
     - In original wireframes I had the radio button to the left of the label text, while I could find available solutions to this, they would not be fitting in level with the rest of my code so this was a change I stuck with.
