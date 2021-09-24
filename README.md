@@ -1,5 +1,5 @@
 # DMDC - Danebury Metal Detecting Club
-Danebury Metal Detecting Club, abreviated to DMDC, have commisioned a website to be made to help them recruit more members and provide information about the club. The site is targetted towards individuals who may be interested in joining the club for recruitment purposes and also toward existing members, providing information about their weekly meet ups.
+Danebury Metal Detecting Club, abbreviated to DMDC, have commissioned a website to be made to help them recruit more members and provide information about the club. The site is targetted towards individuals who may be interested in joining the club for recruitment purposes and also toward existing members, providing information about their weekly meet ups.
 
 ![https://imgur.com/cAij1Cz](https://i.imgur.com/cAij1Cz.jpg "Site responsiveness")
 
@@ -9,9 +9,9 @@ Danebury Metal Detecting Club, abreviated to DMDC, have commisioned a website to
 ### - Navigation Bar
     -Features on all 4 pages, the full responsive navigation bar includes links to the Home page (Index), Join Us page, Online Finds Table page and About Us page and is identical in each page to allow for easy navigation
     -Navigation bar features a central DMDC logo, enhancing club identity and offering a recognisable symbol for the user. This also functions as another link back to the home page.
-    -Page links are positioned symetrically, 2 on each side of the logo
-    -Links are concise and one word for aethetics and ease of use
-    -Simple font and color choice for clarity and accessibility
+    -Page links are positioned symmetrically, 2 on each side of the logo
+    -Links are concise and one word for aesthetics and ease of use
+    -Simple font and colour choice for clarity and accessibility
 ![https://imgur.com/VZtGwRi](https://i.imgur.com/VZtGwRi.jpg "Nav bar")
 ### - Hero Image on each page
     -Visual display to promote a positive emotional response from the user
@@ -24,7 +24,7 @@ Danebury Metal Detecting Club, abreviated to DMDC, have commisioned a website to
     -Layout is mirrored from the 'About Us' page across the top
     -Title identifying the page 'Online Finds Table' under the hero image
     -This is included as the page isn't an expected page on a website
-    -Includes three most recent finds of note from members of the club, along with acompanying information: Find title, Historical date, Item description, Finder's name and Find date
+    -Includes three most recent finds of note from members of the club, along with accompanying information: Find title, Historical date, Item description, Finder's name and Find date
 ![https://imgur.com/JW808tK](https://i.imgur.com/JW808tK.jpg "Finds table")
 ### - About Us Page
     -Mirrors layout of the Online Finds Table across the top half of the page
@@ -45,17 +45,21 @@ Danebury Metal Detecting Club, abreviated to DMDC, have commisioned a website to
 ## Future Features
 
 ### - Future Feature Idea
-    - 
+    - A page where members could pay their membership fees online. This could also branch out to provide a site for members to order or reserve club merchandise.
+        - This concept falls outside of the scope of the first iteration of the site. Both in terms of time investment and knowledge of the developer. It could feasibly be introduced a few months after first release, once members have got used to the layout and nature of the site in its current form.
+
+    - Creation of a forum / chatroom for members and prospective members
+        - As with the above, this concept would require a large investment of time and outside knowledge to implement. Both ideas would be useful and relevant for a site such as this and would provide the site with more interaction from users, and could provide another stream of income for the club.
 
 ---
 
 ## Testing
 
-Seperate testing file linked [Here.](https://github.com/CMecrow/CM-Project-1/blob/main/docs/Testing.md)
+Separate testing file linked [Here.](https://github.com/CMecrow/CM-Project-1/blob/main/docs/Testing.md)
 
 ### Validator Testing
 #### HTML - 
-When passing through HTML validator - [W3C validator](https://validator.w3.org/nu/) there are 2 areas related to the 'join' page, namely the lack of a 'method' or 'action' value in the sign up form. This was a concious decision to avoid any site errors or crashes when a submition was attempted. Were the site to go live, this would need amending as a first priority.
+When passing through HTML validator - [W3C validator](https://validator.w3.org/nu/) there are 2 areas related to the 'join' page, namely the lack of a 'method' or 'action' value in the sign up form. This was a conscious decision to avoid any site errors or crashes when a submission was attempted. Were the site to go live, this would need amending as a first priority. This is mentioned in more detail in the testing document.
 #### CSS -
 No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 ### Accessibility
