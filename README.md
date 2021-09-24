@@ -64,7 +64,7 @@ When passing through HTML validator - [W3C validator](https://validator.w3.org/n
 No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 ### Accessibility
 I confirmed the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
-/* Screenshot of lighthouse */
+![https://i.imgur.com/fQKvMiW](https://i.imgur.com/fQKvMiW.jpg "Lighthouse rating")
 
 ### Unfixed Bugs
 

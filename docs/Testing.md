@@ -68,6 +68,8 @@
 
     - The logo size shrink was done because it had a set width and height so it become overbearing on smaller screens. It did however still need to be present as on a smaller display the 'DMDC' title had already been removed, so some branding would have to remain.
 
+    - One aspect that was ignored at this stage was viewing the website on larger devices with a higher resolution. When doing so currently the website appears sparce and the large images do not fill their assigned borders because of their pixel measurements. This could be an area to explore should the project be revisited but it was considered a large time investment for minimal benefit at this point.
+
 ### Lighthouse testing
 When running the deployed page through Lighthouse, the performance score sits at 75. This originally came through at mid 60s which was something I was keen to improve. The biggest change came when changing the file type of the large images on the site from .jpeg to .webp. The images kept their quality but were less demanding to load. Although images are already all made to size, they could potentially be further compressed should load times become an issue on the page. Not all images were converted to webp as they were already small in size. This could be another change to speed up the performance if required.
 
