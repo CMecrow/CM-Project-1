@@ -34,6 +34,7 @@
 
 ### Join Page
     - In original wireframes I had the radio button to the left of the label text, while I could find available solutions to this, they would not be fitting in level with the rest of my code so this was a change I stuck with.
+    - All text input sections are marked as required, with the email section marked as such
     - I was satisfied at first with the misaligned input boxes and radio buttons but then decided to try to reformat them to get the labels aligned vertically, as well as the input boxes. The best solution I found for this is linked below. It involved formatting the form into a table through CSS. Although this achieved my goal to begin with, it meant the radio buttons were difficult to realign as they were now trying to fit into the table structure. Because of this, I reformatted them into another text input which won't affect functionality, and gives a wider scope for answers.
     - The new table format did however give me an issue with the submit button. To get around this I enclosed the other aspects of the form in a div, then had the join button in a separate div to help with positioning, and breaking it out of the table structure.
     - There was another problem that assigning width in %s wasn't giving the desired effect relating to the labels and inputs. This may have been due to the new table formatting, with the %s now relating to cell sizes. Though using pixels worked fine. It should not affect the responsiveness of the site as the text box will fit within the smallest view size.

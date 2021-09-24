@@ -25,15 +25,17 @@ Danebury Metal Detecting Club, abbreviated to DMDC, have commissioned a website 
     -Title identifying the page 'Online Finds Table' under the hero image
     -This is included as the page isn't an expected page on a website
     -Includes three most recent finds of note from members of the club, along with accompanying information: Find title, Historical date, Item description, Finder's name and Find date
+    - This page is designed to peak the interest of a prospective member, and also as a point for existing members to have their great finds highlighted.
 ![https://imgur.com/JW808tK](https://i.imgur.com/JW808tK.jpg "Finds table")
 ### - About Us Page
     -Mirrors layout of the Online Finds Table across the top half of the page
-    -Includes meetings information, displayed through a split image 4x identical sizing
-    -Brief club information in the centre of the page as this is the main focus. Minimal text as with the rest of the site, also contains a contact email
+    -Includes meetings information, displayed through a split image 4x identical sizing, facilitating one of the high priority site goals.
+    -Brief club information in the centre of the page as this is the main focus. Minimal text as with the rest of the site, also contains a contact email.
     -Google maps embedded at the bottom right to display the meetings location to prospective members
+    - This page is the main information point for users, and also fills an expected convention of a club or group website.
 ![https://i.imgur.com/rbaeJvq](https://i.imgur.com/rbaeJvq.jpg "About page")
 ### - Sign Up Page
-    - This page will allow the user to sign up to the DMDC, declaring their interest and giving the club a point of contact to send over meeting information. The user will be required to submit their name, email address and experience via text inputs and radio buttons
+    - This page will allow the user to sign up to the DMDC, declaring their interest and giving the club a point of contact to send over meeting information. The user will be required to submit their name, email address and experience via text inputs.
     - This page was the main project goal of the website, to provide an area for new members to sign up to the DMDC. I chose the below image specifically as it was high definition, like all other large images across the site, and also fitted the theme nicely. The image was not too busy in terms of colour or content and because the main focus was actually blurred, the metal detectorist in the grass, I felt that it would not detract from the sign up form.
 ![https://imgur.com/nQCY0NQ](https://i.imgur.com/5Mcy1rK.jpg "Join page")
 ### - The Footer
@@ -89,6 +91,8 @@ The live link can be found [here.](https://cmecrow.github.io/CM-Project-1/index.
 Instruction on how to embed a google map without using Javascript where possible was found [here](https://blog.duda.co/responsive-google-maps-for-your-website)
 The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 Further tutorials used are detailed in the [Testing page.](https://github.com/CMecrow/CM-Project-1/blob/main/docs/Testing.md)
+
+The footer HTML and meeting information CSS / HTML were based on those covered in the CI [Love Running project.](https://github.com/CMecrow/love-running)
 
 ### Media
 
