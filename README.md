@@ -1,45 +1,48 @@
 # DMDC - Danebury Metal Detecting Club
 Danebury Metal Detecting Club, abbreviated to DMDC, have commissioned a website to be made to help them recruit more members and provide information about the club. The site is targetted towards individuals who may be interested in joining the club for recruitment purposes and also toward existing members, providing information about their weekly meet ups.
 
+User experience considerations available [here](https://github.com/CMecrow/CM-Project-1/blob/main/docs/DMDC_UX_1.pdf).
+Initial wireframe concepts available [here](https://github.com/CMecrow/CM-Project-1/blob/main/docs/DMDC_Wireframes.pdf)
+
 ![https://imgur.com/cAij1Cz](https://i.imgur.com/cAij1Cz.jpg "Site responsiveness")
 
 ---
 
 ## Features
 ### - Navigation Bar
-    -Features on all 4 pages, the full responsive navigation bar includes links to the Home page (Index), Join Us page, Online Finds Table page and About Us page and is identical in each page to allow for easy navigation
-    -Navigation bar features a central DMDC logo, enhancing club identity and offering a recognisable symbol for the user. This also functions as another link back to the home page.
-    -Page links are positioned symmetrically, 2 on each side of the logo
-    -Links are concise and one word for aesthetics and ease of use
-    -Simple font and colour choice for clarity and accessibility
+- Features on all 4 pages, the full responsive navigation bar includes links to the Home page (Index), Join Us page, Online Finds Table page and About Us page and is identical in each page to allow for easy navigation
+- Navigation bar features a central DMDC logo, enhancing club identity and offering a recognisable symbol for the user. This also functions as another link back to the home page.
+- Page links are positioned symmetrically, 2 on each side of the logo
+- Links are concise and one word for aesthetics and ease of use
+- Simple font and colour choice for clarity and accessibility
 ![https://imgur.com/VZtGwRi](https://i.imgur.com/VZtGwRi.jpg "Nav bar")
 ### - Hero Image on each page
-    -Visual display to promote a positive emotional response from the user
-    -Helps identify the site's content and solidify the identity of the club itself
-    -Displays a visual of what the user can expect to come across while a member of the DMDC
-    -Hero image is accompanied by emotive Headline message on the main page, providing brief information about the club, embedding it in the local area
-    -Priority again sustained with a visible bright 'JOIN US TODAY' link to the Join page
+- Visual display to promote a positive emotional response from the user
+- Helps identify the site's content and solidify the identity of the club itself
+- Displays a visual of what the user can expect to come across while a member of the DMDC
+- Hero image is accompanied by emotive Headline message on the main page, providing brief information about the club, embedding it in the local area
+- Priority again sustained with a visible bright 'JOIN US TODAY' link to the Join page
 ![https://imgur.com/HmUw3Y7](https://i.imgur.com/HmUw3Y7.jpg "Hero image")
 ### - Online Finds Table
-    -Layout is mirrored from the 'About Us' page across the top
-    -Title identifying the page 'Online Finds Table' under the hero image
-    -This is included as the page isn't an expected page on a website
-    -Includes three most recent finds of note from members of the club, along with accompanying information: Find title, Historical date, Item description, Finder's name and Find date
-    - This page is designed to peak the interest of a prospective member, and also as a point for existing members to have their great finds highlighted.
+- Layout is mirrored from the 'About Us' page across the top
+- Title identifying the page 'Online Finds Table' under the hero image
+- This is included as the page isn't an expected page on a website
+- Includes three most recent finds of note from members of the club, along with accompanying information: Find title, Historical date, Item description, Finder's name and Find date
+- This page is designed to peak the interest of a prospective member, and also as a point for existing members to have their great finds highlighted.
 ![https://imgur.com/JW808tK](https://i.imgur.com/JW808tK.jpg "Finds table")
 ### - About Us Page
-    -Mirrors layout of the Online Finds Table across the top half of the page
-    -Includes meetings information, displayed through a split image 4x identical sizing, facilitating one of the high priority site goals.
-    -Brief club information in the centre of the page as this is the main focus. Minimal text as with the rest of the site, also contains a contact email.
-    -Google maps embedded at the bottom right to display the meetings location to prospective members
-    - This page is the main information point for users, and also fills an expected convention of a club or group website.
+- Mirrors layout of the Online Finds Table across the top half of the page
+- Includes meetings information, displayed through a split image 4x identical sizing, facilitating one of the high priority site goals.
+- Brief club information in the centre of the page as this is the main focus. Minimal text as with the rest of the site, also contains a contact email.
+- Google maps embedded at the bottom right to display the meetings location to prospective members
+- This page is the main information point for users, and also fills an expected convention of a club or group website.
 ![https://i.imgur.com/rbaeJvq](https://i.imgur.com/rbaeJvq.jpg "About page")
 ### - Sign Up Page
-    - This page will allow the user to sign up to the DMDC, declaring their interest and giving the club a point of contact to send over meeting information. The user will be required to submit their name, email address and experience via text inputs.
-    - This page was the main project goal of the website, to provide an area for new members to sign up to the DMDC. I chose the below image specifically as it was high definition, like all other large images across the site, and also fitted the theme nicely. The image was not too busy in terms of colour or content and because the main focus was actually blurred, the metal detectorist in the grass, I felt that it would not detract from the sign up form.
+- This page will allow the user to sign up to the DMDC, declaring their interest and giving the club a point of contact to send over meeting information. The user will be required to submit their name, email address and experience via text inputs.
+- This page was the main project goal of the website, to provide an area for new members to sign up to the DMDC. I chose the below image specifically as it was high definition, like all other large images across the site, and also fitted the theme nicely. The image was not too busy in terms of colour or content and because the main focus was actually blurred, the metal detectorist in the grass, I felt that it would not detract from the sign up form.
 ![https://imgur.com/nQCY0NQ](https://i.imgur.com/5Mcy1rK.jpg "Join page")
 ### - The Footer
-    - The footer section includes links to the relevant social media pages for the DMDC, they will open in a new tab, contain an aria-label for accessibility, as well as rel="noopener" for added security. These links will work towards the original goals of conveying club information and offering potential members extra ways to connect with the club.
+- The footer section includes links to the relevant social media pages for the DMDC, they will open in a new tab, contain an aria-label for accessibility, as well as rel="noopener" for added security. These links will work towards the original goals of conveying club information and offering potential members extra ways to connect with the club.
 ![https://i.imgur.com/nQCY0NQ](https://i.imgur.com/nQCY0NQ.jpg "Footer")
 
 ---
@@ -47,11 +50,11 @@ Danebury Metal Detecting Club, abbreviated to DMDC, have commissioned a website 
 ## Future Features
 
 ### - Future Feature Idea
-    - A page where members could pay their membership fees online. This could also branch out to provide a site for members to order or reserve club merchandise.
-        - This concept falls outside of the scope of the first iteration of the site. Both in terms of time investment and knowledge of the developer. It could feasibly be introduced a few months after first release, once members have got used to the layout and nature of the site in its current form.
+- A page where members could pay their membership fees online. This could also branch out to provide a site for members to order or reserve club merchandise.
+  - This concept falls outside of the scope of the first iteration of the site. Both in terms of time investment and knowledge of the developer. It could feasibly be introduced a few months after first release, once members have got used to the layout and nature of the site in its current form.
 
-    - Creation of a forum / chatroom for members and prospective members
-        - As with the above, this concept would require a large investment of time and outside knowledge to implement. Both ideas would be useful and relevant for a site such as this and would provide the site with more interaction from users, and could provide another stream of income for the club.
+- Creation of a forum / chatroom for members and prospective members
+  - As with the above, this concept would require a large investment of time and outside knowledge to implement. Both ideas would be useful and relevant for a site such as this and would provide the site with more interaction from users, and could provide another stream of income for the club.
 
 ---
 
@@ -66,6 +69,7 @@ When passing through HTML validator - [W3C validator](https://validator.w3.org/n
 No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 ### Accessibility
 I confirmed the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
+
 ![https://i.imgur.com/fQKvMiW](https://i.imgur.com/fQKvMiW.jpg "Lighthouse rating")
 
 ### Unfixed Bugs
@@ -76,10 +80,10 @@ Discussed on [Testing page.](https://github.com/CMecrow/CM-Project-1/blob/main/d
 
 ## Deployment
   
-    - The site was deployed to GitHub pages. The steps to deploy are as follows:
-        - In the GitHub repository, navigate to the Settings tab
-        - From the source section drop-down menu, select the Master / Main Branch
-        - Once the master or main branch has been selected, the page will automatically be refreshed with a detailed ribbon display to indicate the successful deployment.
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+  - From the source section drop-down menu, select the Master / Main Branch
+  - Once the master or main branch has been selected, the page will automatically be refreshed with a detailed ribbon display to indicate the successful deployment.
 The live link can be found [here.](https://cmecrow.github.io/CM-Project-1/index.html)
 
 ---
