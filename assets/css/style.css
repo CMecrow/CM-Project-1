@@ -280,7 +280,6 @@ nav a:hover {
     display: inline-block;
     width: 300px;
     height: 400px;
-    left: 15px;
     overflow: hidden;
 }
 
@@ -290,7 +289,6 @@ nav a:hover {
     display: inline-block;
     width: 250px;
     height: 400px;
-    left: 30px;
     overflow: hidden;
 }
 
@@ -418,7 +416,6 @@ nav a:hover {
         justify-content: center;
         align-items: center;
         padding-bottom: 20px;
-        margin-left: -15px;
     }
 
     .find-image {
@@ -427,6 +424,7 @@ nav a:hover {
 
     .find-text {
         width: 50%;
+        left: 10px;
     }
 
     #find-two, #find-three {
@@ -509,18 +507,10 @@ nav a:hover {
 
 @media screen and (max-width: 650px) {
 
-    .find-box {
-        display: block;
-        left: 50%;
-        margin-left: -153px;
-    }
-
-    #find-two, #find-three {
-        margin: 0;
-        padding: 0;
-        display: block;
-        left: 50%;
-        margin-left: -153px;
+    .find.box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     #find-two {
@@ -530,13 +520,12 @@ nav a:hover {
     .find-image {
         display: block;
         position: relative;
-        margin-bottom: 5px;
     }
 
     .find-text {
         display: block;
         width: 300px;
-        left: 0;
+        left: 5px;
     }
 }
 
