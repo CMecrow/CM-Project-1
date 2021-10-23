@@ -27,10 +27,12 @@ I instead centred the logo using percentages to help with responsiveness and mat
 - Borders for div meeting blocks were not creating the desired effect as they'd double up between the divs (right 3px and left 3px creating a 6px border). Borders also didn't look as expected so internal borders were assigned the background colour with the parent meeting div being given a border instead to match other text elements on the page.
 - I'd previously placed the font-awesome logos in the meeting info in h2 and h3 tags for some simple easy styling. However they've now been changed to divs as the heading tags didn't make sense semantically.
 - I had real issue centring the 'info' box and had tried to do so via pixels and padding, however I then realised it could be simply done by placing all three divs (meetings, info and map) into a parent div with text-align: center, then applying margin: 0 auto to the info div.
+- I had concerns about making the embeded Google map responsive as it might lose it's center focus and interactivity but this turned out not to be the case after applying a responsive width AFTER the page fell below it's original maximum. 
 
 ### Finds Page
 - I originally inserted the images through CSS3 as background images to the selected divs, however I changed the images to be in the HTML code to be able to apply an alt attribute.
 - I changed the alignment of find2 and find3 divs using the same technique as the about page, placing all three divs into a parent div with text-align: center.
+- I made amendments to code that did not apply these centering rules to #find-one, only to two and three. I also removed a slight shift in #find-one to the right, likely a line of code that had not been removed from a previous attempt at positioning
 
 ### Join Page
 - In original wireframes I had the radio button to the left of the label text, while I could find available solutions to this, they would not be fitting in level with the rest of my code so this was a change I stuck with.
@@ -57,6 +59,7 @@ I instead centred the logo using percentages to help with responsiveness and mat
 - < 900px, chosen because nav begins to clash with title text. Finds page also altered to provide more spacing around images and text.
 - < 710px, chosen because of 'join us' text box, begins to get cramped.
 - < 650px, chosen because find page needs condensing to stack images and text on top of each other.
+- < 600px, chosen to apply responsiveness to embedded Google map div on about page.
 - < 540px, chosen to condense nav menu and Join us form. Meeting information also beginning to spill out
 - < 420px, chosen as logo in nav beginning to be too big, so is scaled down. Text boxes on Home page require repositioning, text on join page requires resizing
 

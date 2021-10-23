@@ -529,6 +529,18 @@ nav a:hover {
     }
 }
 
+@media screen and (max-width: 600px) {
+    
+    #map {
+        overflow: hidden;
+        width: 100%;
+        right: 0px;
+        left: 0;
+        margin-left: 0;
+        box-sizing: border-box;
+    }
+}
+
 @media screen and (max-width: 540px) {
     
     nav {
