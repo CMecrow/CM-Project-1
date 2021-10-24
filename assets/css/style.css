@@ -565,6 +565,21 @@ nav a:hover {
     }
 }
 
+@media screen and (max-width: 500px) {
+
+    .find-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        float: none;
+        width: 100%;
+        left: 0px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+    }
+
+}
+
 @media screen and (max-width: 420px) {
 
     .logo {
