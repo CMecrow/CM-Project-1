@@ -568,16 +568,28 @@ nav a:hover {
 @media screen and (max-width: 500px) {
 
     .find-box {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        float: none;
         width: 100%;
-        left: 0px;
-        margin-bottom: 10px;
+        display: block;
+        position: relative;
+    }
+
+    .find-text {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+        left: 0;
         box-sizing: border-box;
     }
 
+    .find-image {
+        display: flex;
+        justify-content: center;        
+        margin-bottom: 5px;
+        width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 @media screen and (max-width: 420px) {

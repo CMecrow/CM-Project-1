@@ -61,6 +61,7 @@ I instead centred the logo using percentages to help with responsiveness and mat
 - < 650px, chosen because find page needs condensing to stack images and text on top of each other.
 - < 600px, chosen to apply responsiveness to embedded Google map div on about page.
 - < 540px, chosen to condense nav menu and Join us form. Meeting information also beginning to spill out
+- < 500px, chosen to stop any loss of text on finds page by stacking images on top of text
 - < 420px, chosen as logo in nav beginning to be too big, so is scaled down. Text boxes on Home page require repositioning, text on join page requires resizing
 
 - Working on the about page was tricky as I'd had difficulty getting them centred and aligned already and had used pixel measurements for diameter rather than percentages. I could format the main 2 divs of Meetings and Info to fill the width at 100%, however the meeting information, situated inside the meeting div would not centre with the display and position styling I was applying. When looking for a fix I stumbled on the below Stackoverflow and used the align-items and justify-content while changing the parent div's display to flex to reach the goal.
