@@ -70,7 +70,7 @@ No errors were returned when passing through the official [(Jigsaw) validator](h
 ### Accessibility
 I confirmed the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
 
-![https://i.imgur.com/fQKvMiW](https://i.imgur.com/fQKvMiW.jpg "Lighthouse rating")
+![https://imgur.com/d81MrCC](https://imgur.com/d81MrCC.jpg "Lighthouse rating")
 
 ### Unfixed Bugs
 

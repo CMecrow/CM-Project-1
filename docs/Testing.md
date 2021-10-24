@@ -78,7 +78,7 @@ I instead centred the logo using percentages to help with responsiveness and mat
 ### Lighthouse testing
 When running the deployed page through Lighthouse, the performance score sits at 74. This originally came through at mid 60s which was something I was keen to improve. The biggest change came when changing the file type of the large images on the site from .jpeg to .webp. The images kept their quality but were less demanding to load. Although images are already all made to size, they could potentially be further compressed should load times become an issue on the page. Not all images were converted to webp as they were already small in size. This could be another change to speed up the performance if required.
 
-![https://i.imgur.com/fQKvMiW](https://i.imgur.com/fQKvMiW.jpg "Lighthouse rating")
+![https://imgur.com/d81MrCC](https://imgur.com/d81MrCC.jpg "Lighthouse rating")
 
 ### Future changes
 As mentioned previously, relying upon pixel measurements did cause issues further down the line, such as site responsiveness. There was an option for me to go back and change all relevant pixel measurements to percentages / em / rem, however I was very conscious of the reward compared to time invested. This reversion would have been a very large undertaking on this project for a very small visual pay off so I decided it was not worth completing at this point. In a similar vein, I created more css rules and html classes for choices such as text styling, borders and image sizing to reduce duplicated lines of code. There was scope to take this further and aim to reduce any duplicated lines of code but again I had to consider the overall pay-off compared to time invested, and as such I decided it wasn't worth undertaking at this time.
